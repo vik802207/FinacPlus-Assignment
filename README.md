@@ -59,7 +59,7 @@ npm install
 ```bash
 First, start the musicLibrary (remote):
 cd music-lib
-npm run dev
+npm run build
 ```
 ```bash
 Then, start the main-app (host) in another terminal:
