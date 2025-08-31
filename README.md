@@ -17,14 +17,14 @@ FinacPlus/
 │   ├── webpack.config.js
 │   └── package.json
 │
-│── musicLibrary/      # Remote micro-frontend
+│── music-lib/      # Remote micro-frontend
 │   ├── src/
-│   │   └── Library.js
+│   │   └── MusicLibrary.js
 │   ├── webpack.config.js
 │   └── package.json
 ```
 ## 🚀 Getting Started
- ###1️⃣ Clone the repo & install dependencies
+### 1️⃣ Clone the repo & install dependencies
  ```bash
 git clone <repo-url>
 ```
